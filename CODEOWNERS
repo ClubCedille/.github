@@ -1,6 +1,6 @@
-/.github/ @devops
+/.github/ @ClubCedille/devops
 
-Dockerfile @devops
+Dockerfile @ClubCedille/devops
 
-docker-compose.yml @devops
-docker-compose.*.yml @devops
+docker-compose.yml @ClubCedille/devops
+docker-compose.*.yml @ClubCedille/devops
