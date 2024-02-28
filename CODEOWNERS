@@ -1,4 +1,7 @@
 /.github/ @devops
+
 Dockerfile @devops
+
 docker-compose.yml @devops
+
 docker-compose.*.yml @devops
