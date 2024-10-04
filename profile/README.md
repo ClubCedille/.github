@@ -1,53 +1,54 @@
-# 🎓 Cédille - Club Étudiant en Ingénierie Logicielle et Informatique
+<div style="text-align: center;">
+    <img src="CEDILLE_banner_large.png" alt="CEDILLE logo" style="width: 90vw; text-align:center">
+</div>
 
-**"Relier l'éducation à l'industrie tout en favorisant la croissance des étudiants en ingénierie."** 🌉
+<br>
 
-## 📌 À propos
+Chez **CEDILLE**, nous croyons en l'importance d'outiller les étudiants pour exceller dans l'industrie du logiciel et de l'ingénierie informatique. Nous proposons une expérience pratique, cultivons un esprit fort et créons un impact positif sur la communauté. Nous comprenons l'importance de l'expérience réelle et notre club se consacre à combler le fossé entre l'apprentissage en classe et les exigences du marché du travail.
 
-**Cédille** vise à propulser les étudiants au-delà des murs académiques, enrichissant leur passion pour l'ingénierie logicielle et informatique tout en ayant un impact tangible sur la communauté. Nous savons que le monde tech va au-delà de la théorie - il nécessite une expertise concrète, une flexibilité constante et un ensemble de valeurs robustes.
+Venez faire le pont entre l'éducation et l'industrie!
 
-🚀 **Environnement d'apprentissage dynamique** : Nous mettons tout en œuvre pour fournir un milieu où la pratique et le perfectionnement sont au cœur des activités. Grâce à des projets, ateliers, et événements divers, nous vous plongeons dans le vif des tendances actuelles de l'ingénierie.
+## Domaines d'expertise
 
-🌐 **Des Projets Impactants** : Notre engagement réside dans la conduite de projets qui transcendent la croissance personnelle pour aussi toucher et améliorer la vie des autres.
+- **Développement Web** : Acquérez une expérience pratique avec les dernières technologies et outils de développement web et apprenez à créer des sites web rapides, réactifs et conviviaux.
+  
+- **Développement Logiciel** : Développez des compétences essentielles pour concevoir, construire, tester et déployer des logiciels de haute qualité. 
+  
+- **DevOps** : Maîtrisez les principes de DevOps pour rationaliser le développement de logiciels, le déploiement et les opérations. Apprenez à automatiser les processus et à améliorer la collaboration.
+  
+- **SRE (Site Reliability Engineering)** : Découvrez les principes de l'ingénierie de fiabilité du site (SRE) et apprenez à construire des systèmes hautement disponibles et tolérants aux pannes.
 
-🤝 **Mentorat et Guidage** : Avec le soutien d'experts de l'industrie, nous favorisons les échanges qui sculptent de futurs ingénieurs compétents et humains.
+## Projets en cours
 
-## 🚀 Opportunités chez Cédille
-
-### 🧰 Domains d'Expertise
-
-- **Développement Web** : Plongez-vous dans l'univers du web, de l'UI/UX au développement front-end et back-end.
-- **Développement Logiciel** : Expérimentez avec une variété de langages de programmation et d'outils pour des solutions évolutives.
-- **DevOps** : Maîtrisez l'art de l'automatisation et de la collaboration pour accélérer la livraison de logiciels de qualité.
-- **SRE (Site Reliability Engineering)** : Construisez et surveillez une infrastructure robuste pour nos applications et services.
-
-### 📋 Projets en Cours
-
-- **Plateforme Cedille** : Nouvelle infrastructure bare-metal de Cedille pour héberger nos services. ([En savoir plus](https://github.com/ClubCedille/Plateforme-Cedille))
-- **Site web de CEDILLE** : Refonte de notre site avec Hugo. [Repo](https://github.com/ClubCedille/cedille.etsmtl.ca)
-- **Robot Trëma** : Un bot discord pour la gestion de serveurs. [Repo](https://github.com/ClubCedille/trema)
+- **Plateforme CEDILLE** : Nouvelle infrastructure bare-metal pour héberger nos services. [Repo](https://github.com/ClubCedille/Plateforme-Cedille)
+  
+- **cedille.etsmtl.ca** : Refonte de notre site avec le *framework* Hugo. [Repo](https://github.com/ClubCedille/cedille.etsmtl.ca)
+  
+- **Robot Trëma** : Bot discord pour la gestion de serveurs. [Repo](https://github.com/ClubCedille/trema)
+  
 - ... [Consultez la liste complète](https://github.com/orgs/ClubCedille/repositories)
 
-## 🌍 Notre Engagement envers l'Open Source
+## Engagement envers l'Open-Source
 
-**Cédille** croit fermement à la philosophie de l'Open Source. Pour nous, partager nos travaux et nos innovations avec la communauté mondiale n'est pas simplement un choix, c'est une **valeur fondamentale**.
+**CEDILLE** croit fermement à la philosophie de l'Open-Source. Pour nous, partager nos travaux et nos innovations avec la communauté n'est pas simplement un choix, c'est une **valeur fondamentale**.
 
-🔓 **Transparence** : Nous publions nos projets ouvertement, permettant à chacun d'accéder, d'examiner et de contribuer à notre code.
+- **Transparence** : Nos projets sont accessibles publiquement, permettant à chacun d'examiner, d'améliorer et de réutiliser notre code.
 
-🔄 **Collaboration** : L'Open Source facilite la collaboration, non seulement entre nous, mais avec des ingénieurs et des passionnés du monde entier.
+- **Coopération** : L'ouverture de nos travaux encourage des contributions externes, renforçant nos projets par des échanges avec des spécialistes et des développeurs expérimentés.
 
-🌱 **Croissance** : En étant ouverts, nous recevons des feedbacks constructifs qui nous aident à nous améliorer continuellement. De plus, en contribuant à nos projets, vous enrichissez votre propre portfolio.
+- **Croissance** : En étant ouverts, nous recevons des feedbacks constructifs qui nous aident à nous améliorer continuellement. De plus, en contribuant à nos projets, vous enrichissez votre propre portfolio.
 
-🎁 **Donner en Retour** : Nous sommes conscients des avantages incalculables que nous tirons des ressources Open Source disponibles. En rendant nos projets publics, nous espérons donner en retour à cette formidable communauté.
+- **Contribution à l’écosystème** : Nous participons activement à l'Open-Source pour soutenir et enrichir les technologies que nous utilisons.
 
-Si vous partagez notre passion pour l'Open Source et souhaitez contribuer ou apprendre, nos portes (et nos repos) sont toujours ouvertes !
+Nos projets sont ouverts à toute contribution sérieuse.
 
-## 🤔 Comment se Joindre à Nous ?
+## Nous joindre
 
-Vous êtes passionné d'ingénierie logicielle, de développement web, ou simplement curieux de ce que nous faisons ? Nous serions ravis de vous accueillir dans notre communauté !
+Rejoignez notre serveur Discord pour intégrer le club, proposer vos idées de projet et échanger directement avec nos membres. Notre porte est toujours ouverte! 
 
-🚀 **Commencez ici** : 
-Pour une intégration rapide et pour discuter avec nos membres actifs, **rejoignez notre serveur Discord**. C'est l'endroit idéal pour poser vos questions, connaître nos derniers projets et voir comment vous pouvez contribuer.
-
-[Rejoindre le serveur Discord de Cédille](https://discord.gg/RAhFnbs3)
-
+<div style="text-align: center; width: 150px;">
+  <a href="https://discord.com/invite/kX4rXRTMR6">
+    <img src="discord_logo.png" alt="Discord Logo" style="width: 250px; display: block; margin: 0 auto 0 auto;">
+  </a>
+  <p>Serveur Discord CEDILLE</p>
+</div>
