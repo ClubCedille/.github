@@ -48,7 +48,7 @@ Rejoignez notre serveur Discord pour intégrer le club, proposer vos idées de p
 
 <div style="text-align: center; width: 150px;">
   <a href="https://discord.com/invite/kX4rXRTMR6">
-    <img src="discord_logo.png" alt="Discord Logo" style="width: 250px; display: block; margin: 0 auto 0 auto;">
+    <img src="discord_logo.png" alt="Discord Logo" style="width: 100px; display: block; margin: 0 auto 0 auto;">
   </a>
   <p>Serveur Discord CEDILLE</p>
 </div>
