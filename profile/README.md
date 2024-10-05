@@ -8,9 +8,9 @@ Venez faire le pont entre l'éducation et l'industrie!
 
 ## Domaines d'expertise
 
+- **Développement Applicatif** : Développez des compétences essentielles pour concevoir, construire, tester et déployer des logiciels de haute qualité. 
+
 - **Développement Web** : Acquérez une expérience pratique avec les dernières technologies et outils de développement web et apprenez à créer des sites web rapides, réactifs et conviviaux.
-  
-- **Développement Logiciel** : Développez des compétences essentielles pour concevoir, construire, tester et déployer des logiciels de haute qualité. 
   
 - **DevOps** : Maîtrisez les principes de DevOps pour rationaliser le développement de logiciels, le déploiement et les opérations. Apprenez à automatiser les processus et à améliorer la collaboration.
   
