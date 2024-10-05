@@ -1,6 +1,6 @@
-<div style="text-align: center;">
-    <img src="CEDILLEBannerLarge.png" alt="CEDILLE logo" style="width: 90vw; text-align:center">
-</div>
+<p align="center">
+  <img src="CEDILLEBannerLarge.png" alt="CEDILLE logo" style="width: 95vw; text-align:center">
+</p>
 
 Chez **CEDILLE**, nous croyons en l'importance d'outiller les étudiants pour exceller dans l'industrie du logiciel et de l'ingénierie informatique. Nous proposons une expérience pratique, cultivons un esprit fort et créons un impact positif sur la communauté. Nous comprenons l'importance de l'expérience réelle et notre club se consacre à combler le fossé entre l'apprentissage en classe et les exigences du marché du travail.
 
@@ -44,9 +44,9 @@ Nos projets sont ouverts à toute contribution sérieuse.
 
 Rejoignez notre serveur Discord pour intégrer le club, proposer vos idées de projet et échanger directement avec nos membres. Notre porte est toujours ouverte! 
 
-<div style="text-align: center; width: 150px;">
+<p align="left">
   <a href="https://discord.com/invite/kX4rXRTMR6">
-    <img src="discordLogo.png" alt="Discord Logo" style="width: 100px; display: block; margin: 0 auto 0 auto;">
+    <img src="discordLogo.png" alt="Discord Logo" style="width: 100px; ">
+    <p align="left">Serveur Discord</p>
   </a>
-  <p>Serveur Discord</p>
-</div>
+</p>
