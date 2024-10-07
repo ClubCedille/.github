@@ -1,4 +1,4 @@
-![CEDILLE Banner](./CEDILLEBannerLarge.png)
+![CEDILLE Banner](https://raw.githubusercontent.com/ClubCedille/.github/1e8ccfdd6c224901963f7bfb9561f6cbec527a74/profile/CEDILLEBannerLarge.png)
 
 Chez **CEDILLE**, nous croyons en l'importance d'outiller les étudiants pour exceller dans l'industrie du logiciel et de l'ingénierie informatique. Nous proposons une expérience pratique, cultivons un esprit fort et créons un impact positif sur la communauté. Nous comprenons l'importance de l'expérience réelle et notre club se consacre à combler le fossé entre l'apprentissage en classe et les exigences du marché du travail.
 
