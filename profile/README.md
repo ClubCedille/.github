@@ -16,7 +16,7 @@ Venez faire le pont entre l'éducation et l'industrie!
 
 ## Projets en cours
 
-- **Infrastructure Baremetal k8s**: Regroupement de clusters gérés par ArgoCD [Management](https://github.com/ClubCedille/k8s-management-v2) [Production](https://github.com/ClubCedille/k8s-cedile-production-v2) [Services partagés](https://github.com/ClubCedille/k8s-shared)
+- **Infrastructure Baremetal k8s**: Regroupement de clusters gérés par ArgoCD. [Management](https://github.com/ClubCedille/k8s-management-v2), [Production](https://github.com/ClubCedille/k8s-cedile-production-v2) et [Services partagés](https://github.com/ClubCedille/k8s-shared)
 
 - **Plateforme CEDILLE** : Wiki et autres ressources. [Repo](https://github.com/ClubCedille/Plateforme-Cedille)
   
