@@ -16,7 +16,9 @@ Venez faire le pont entre l'éducation et l'industrie!
 
 ## Projets en cours
 
-- **Plateforme CEDILLE** : Nouvelle infrastructure bare-metal pour héberger nos services. [Repo](https://github.com/ClubCedille/Plateforme-Cedille)
+- **Infrastructure Baremetal k8s**: Regroupement de clusters gérés par ArgoCD [Management](https://github.com/ClubCedille/k8s-management-v2) [Production](https://github.com/ClubCedille/k8s-cedile-production-v2) [Services partagés](https://github.com/ClubCedille/k8s-shared)
+
+- **Plateforme CEDILLE** : Wiki et autres ressources. [Repo](https://github.com/ClubCedille/Plateforme-Cedille)
   
 - **cedille.etsmtl.ca** : Refonte de notre site avec le *framework* Hugo. [Repo](https://github.com/ClubCedille/cedille.etsmtl.ca)
   
