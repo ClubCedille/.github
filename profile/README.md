@@ -35,6 +35,10 @@ Venez faire le pont entre l'éducation et l'industrie!
   
 - **Wiki du club** : Contient la documentation de nos services offerts ainsi que la documentation interne. [Wiki](https://cedille.etsmtl.club)
 
+- **Kanban CEDILLE** : Tableau de bord des tâches sur GitHub. [Projects](https://github.com/orgs/ClubCedille/projects/3)
+
+- **Suivi des projets en cours** : Notes des rencontres hebdomadaires. [Discussions Hebdomadaires](https://github.com/orgs/ClubCedille/discussions)
+
 ## Engagement envers l'Open-Source
 
 **CEDILLE** croit fermement à la philosophie de l'Open-Source. Pour nous, partager nos travaux et nos innovations avec la communauté n'est pas simplement un choix, c'est une **valeur fondamentale**.
