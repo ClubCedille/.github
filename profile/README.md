@@ -2,6 +2,15 @@
 
 Chez **CEDILLE**, nous croyons en l'importance d'outiller les étudiants pour exceller dans l'industrie du logiciel et de l'ingénierie informatique. Nous proposons une expérience pratique, cultivons un esprit fort et créons un impact positif sur la communauté. Nous comprenons l'importance de l'expérience réelle et notre club se consacre à combler le fossé entre l'apprentissage en classe et les exigences du marché du travail.
 
+CEDILLE est un club étudiant de l'[ÉTS](https://www.etsmtl.ca/) axé sur le DevOps et des projets de développement web et applicatif.
+
+Notre mission est double :
+
+- **Offrir une plateforme d'hébergement gratuite, fiable et sécurisée** aux autres clubs et organisations étudiantes de l'ÉTS.
+- **Créer un terrain d'apprentissage concret** pour les membres de CEDILLE, basé sur des technologies modernes utilisées en industrie.
+
+La plateforme CEDILLE est exploitée *on-premise* à l'ÉTS, en collaboration avec le [Lan ETS](https://lanets.ca/)
+
 Venez faire le pont entre l'éducation et l'industrie!
 
 ## Domaines d'expertise
@@ -14,17 +23,17 @@ Venez faire le pont entre l'éducation et l'industrie!
   
 - **SRE (Site Reliability Engineering)** : Découvrez les principes de l'ingénierie de fiabilité du site (SRE) et apprenez à construire des systèmes hautement disponibles et tolérants aux pannes.
 
-## Projets en cours
+## Liens Utiles & Projets en cours
 
-- **Infrastructure Baremetal k8s**: Regroupement de clusters gérés par ArgoCD. [Management](https://github.com/ClubCedille/k8s-management-v2), [Production](https://github.com/ClubCedille/k8s-cedile-production-v2) et [Services partagés](https://github.com/ClubCedille/k8s-shared)
+- **Infrastructure Baremetal k8s**: Regroupement de clusters gérés par ArgoCD en GitOps. [Management](https://github.com/ClubCedille/k8s-management-v2), [Production](https://github.com/ClubCedille/k8s-cedile-production-v2), [Services partagés](https://github.com/ClubCedille/k8s-shared) et [Sandbox](https://github.com/ClubCedille/k8s-cedille-sandbox)
 
-- **Plateforme CEDILLE** : Wiki et autres ressources. [Repo](https://github.com/ClubCedille/Plateforme-Cedille)
+- **Plateforme CEDILLE** : Origine de la plateforme et une partie du code terraform. [Repo](https://github.com/ClubCedille/Plateforme-Cedille)
   
-- **cedille.etsmtl.ca** : Refonte de notre site avec le *framework* Hugo. [Repo](https://github.com/ClubCedille/cedille.etsmtl.ca)
+- **cedille.etsmtl.ca** : Notre site web en Hugo. [Repo](https://github.com/ClubCedille/cedille.etsmtl.ca) [Site web](https://cedille.etsmtl.ca)
   
-- **Robot Trëma** : Bot discord pour la gestion de serveurs. [Repo](https://github.com/ClubCedille/trema)
+- **Robot Trëma** : Bot discord pour la gestion de serveurs. [Repo](https://github.com/ClubCedille/trema) [Serveur Discord](https://discord.gg/kX4rXRTMR6)
   
-- ... [Consultez la liste complète](https://github.com/orgs/ClubCedille/repositories)
+- **Wiki du club** : Contient la documentation de nos services offerts ainsi que la documentation interne. [Wiki](https://cedille.etsmtl.club)
 
 ## Engagement envers l'Open-Source
 
