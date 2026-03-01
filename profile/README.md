@@ -27,11 +27,11 @@ Venez faire le pont entre l'éducation et l'industrie!
 
 - **Infrastructure Baremetal k8s**: Regroupement de clusters gérés par ArgoCD en GitOps. [Management](https://github.com/ClubCedille/k8s-management-v2), [Production](https://github.com/ClubCedille/k8s-cedile-production-v2), [Services partagés](https://github.com/ClubCedille/k8s-shared) et [Sandbox](https://github.com/ClubCedille/k8s-cedille-sandbox)
 
-- **Plateforme CEDILLE** : Origine de la plateforme et une partie du code terraform. [Repo](https://github.com/ClubCedille/Plateforme-Cedille)
+- **Plateforme CEDILLE** : Origine de la plateforme et une partie du code Terraform. [Repo](https://github.com/ClubCedille/Plateforme-Cedille)
   
 - **cedille.etsmtl.ca** : Notre site web en Hugo. [Repo](https://github.com/ClubCedille/cedille.etsmtl.ca) [Site web](https://cedille.etsmtl.ca)
   
-- **Robot Trëma** : Bot discord pour la gestion de serveurs. [Repo](https://github.com/ClubCedille/trema) [Serveur Discord](https://discord.gg/kX4rXRTMR6)
+- **Robot Trëma** : Bot Discord pour la gestion de serveurs. [Repo](https://github.com/ClubCedille/trema) [Serveur Discord](https://discord.gg/kX4rXRTMR6)
   
 - **Wiki du club** : Contient la documentation de nos services offerts ainsi que la documentation interne. [Wiki](https://cedille.etsmtl.club)
 
