@@ -1,3 +1,6 @@
+*.yml @ClubCedille/service @ClubCedille/deploiement
+*.yaml @ClubCedille/service @ClubCedille/deploiement
+
 /.github/ @ClubCedille/sre
 
 Dockerfile @ClubCedille/sre
