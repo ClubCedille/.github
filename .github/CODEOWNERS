@@ -4,3 +4,24 @@ Dockerfile @ClubCedille/sre
 
 docker-compose.yml @ClubCedille/sre
 docker-compose.*.yml @ClubCedille/sre
+
+# Terraform
+*.tf @ClubCedille/infra
+*.tf.json @ClubCedille/infra
+*.tfvars @ClubCedille/infra
+*.tfvars.json @ClubCedille/infra
+.terraform.lock.hcl @ClubCedille/infra
+
+# Ansible
+ansible.cfg @ClubCedille/infra
+requirements.yml @ClubCedille/infra
+playbook*.yml @ClubCedille/infra
+playbook*.yaml @ClubCedille/infra
+*.ansible.yml @ClubCedille/infra
+*.ansible.yaml @ClubCedille/infra
+playbooks/ @ClubCedille/infra
+roles/ @ClubCedille/infra
+group_vars/ @ClubCedille/infra
+host_vars/ @ClubCedille/infra
+inventory/ @ClubCedille/infra
+inventories/ @ClubCedille/infra
